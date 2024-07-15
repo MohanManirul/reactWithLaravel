@@ -6,6 +6,7 @@ function About(){
         <>
             <Link  to='/' >Home</Link>
             <Link  to='/service/domain' >Service</Link>
+            <Link  to='/login' >Login</Link>
             <div> About Page</div>
         </>
         
