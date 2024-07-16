@@ -90,7 +90,7 @@ function Login(){
                                                         <p id="pass-number" className="invalid fs-13 mb-0">A least <b>number</b> (0-9)</p>
                                                     </div>
                                                     <div className="mt-4">
-                                                        <button className="btn btn-success w-100" type="submit">Sign Up</button>
+                                                        <Link to="/dashboard" className="btn btn-success w-100" type="submit">Sign Up</Link>
                                                     </div>
                                                     <div className="mt-4 text-center">
                                                         <div className="signin-other-title">
