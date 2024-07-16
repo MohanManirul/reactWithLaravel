@@ -3,12 +3,12 @@ import {  Link  } from 'react-router-dom';
 import Layout from './layout/Layout';
 
 
-function Dashboard(){
+function User(){
     return (
         <Layout>
-            <p>Welcome to admin dashboard</p>
+            <p>Welcome to user dashboard</p>
         </Layout>
     );
 }
 
-export default Dashboard ;
+export default User ;
