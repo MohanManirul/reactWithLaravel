@@ -19,4 +19,4 @@ function MyApp(){
     );
 }
 
-ReactDom.createRoot(document.getElementById('app')).render(<MyApp/>)
+ReactDom.createRoot(document.getElementById('root')).render(<MyApp/>)
